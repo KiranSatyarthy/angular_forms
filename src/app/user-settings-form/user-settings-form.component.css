@@ -2,3 +2,7 @@
 .field-error {
     border: 1px solid red;
 }
+
+.form-group{
+    margin-top: 25px;
+}
